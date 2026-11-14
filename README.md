@@ -1,1 +1,1 @@
-﻿Conflicto forzado desde main
+﻿Conflicto forzado desde rama
