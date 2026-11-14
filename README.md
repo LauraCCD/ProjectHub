@@ -1,0 +1,1 @@
+﻿Conflicto forzado desde main
